@@ -61,6 +61,11 @@ content generation scenarios:
 2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+Content Quality Impact Visualization:
+<img width="1024" height="1536" alt="ChatGPT Image Dec 25, 2025, 09_34_30 PM" src="https://github.com/user-attachments/assets/09158a5c-ea24-4ea9-a796-2acd0a7350d0" />
+Output:
+[Gokul D R (25017732)EX 10.docx](https://github.com/user-attachments/files/24339520/Gokul.D.R.25017732.EX.10.docx)
+
 
 ## Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
